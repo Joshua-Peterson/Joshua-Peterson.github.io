@@ -9,7 +9,7 @@
             <a-entity
             position="0 -1 0"
             scale="0.05 0.05 0.05"
-            gltf-model="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf"
+            gltf-model="https://github.com/cx20/gltf-test/raw/master/sampleModels/Duck/glTF-Binary/Duck.glb"
             ></a-entity>
         </a-marker>
         <a-entity camera></a-entity>
