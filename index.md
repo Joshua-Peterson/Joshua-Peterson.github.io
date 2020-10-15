@@ -6,11 +6,13 @@
     <body style="margin : 0px; overflow: hidden;">
         <a-scene embedded arjs>
         <a-marker preset="hiro">
-            <a-entity
-            position="0 -1 0"
-            scale="0.05 0.05 0.05"
-            gltf-model="https://github.com/cx20/gltf-test/raw/master/sampleModels/Duck/glTF-Binary/Duck.glb"
+         <a-entity
+            position="1 0 0"
+            scale="0.0001 0.0001 0.0001"
+            gltf-model= "http://127.0.0.1:5500/VSCode-Projects/AR-test/Map.glb"
             ></a-entity>
+            
+           <!--  <a-text value= "Hello,World!"></a-text> -->
         </a-marker>
         <a-entity camera></a-entity>
         </a-scene>
