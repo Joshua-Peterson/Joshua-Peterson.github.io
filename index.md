@@ -12,7 +12,7 @@
          <a-entity
             position="1 0 0"
             scale="0.0001 0.0001 0.0001"
-            gltf-model= "http://127.0.0.1:5500/VSCode-Projects/AR-test/Map.glb"
+            gltf-model= "/Map.glb"
             ></a-entity>
             
            <!--  <a-text value= "Hello,World!"></a-text> -->
